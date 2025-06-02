@@ -11,11 +11,11 @@ This is a full-stack mobile app that helps you track your income and expenses.
 - **Render** – to deploy the backend
 
 ## 📁 Project Structure
-
+```
 react-native-wallet/
 ├── mobile/ → React Native (frontend)
 └── backend/ → Node.js (backend API)
-
+```
 ## 🚀 How to Run the Project
 
 ### Mobile App
